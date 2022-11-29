@@ -11,7 +11,7 @@ https://github.com/dev-ir/UnsplashDownloader.git
 
 [Register an app](https://unsplash.com/developers) and get your own keys from Unsplash.
 
-Update your keys in `main.py`:
+Update your keys in main.py:
 
 ```
 client_id=YOUR_ACCESS_KEY_HERE
