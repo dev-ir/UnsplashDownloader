@@ -1,3 +1,12 @@
+import sys
+import os
+import requests
+import sys;
+import json
+
+# user : http://pypi.python.org/pypi/termcolor
+from termcolor import colored
+
 def response_code(code):
     match code:
         case 200:
